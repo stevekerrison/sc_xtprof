@@ -24,9 +24,9 @@ The example application will output thread statistics via XScope-IO.
 The form is:
 
 ::
-    tileid,thread A,thread B,samples
-    ...
-    n_samples
+  tileid,thread A,thread B,samples
+  ...
+  n_samples
 
 Where tileid is as assigned in the XC main file. thread A and thread B have
 been seen active simultaneously "samples" number of times. A total of "n_samples"
