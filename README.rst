@@ -23,7 +23,8 @@ The example application will output thread statistics via XScope-IO.
 
 The form is:
 
-::
+:: 
+
   tileid,thread A,thread B,samples
   ...
   n_samples
